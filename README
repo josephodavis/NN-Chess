@@ -1,0 +1,12 @@
+https://python-chess.readthedocs.io/en/latest/
+https://www.kaggle.com/code/gabrielhaselhurst/chess-dataset
+
+libraries:
+pip install tensorflow
+pip install chess
+pip install pandas
+pip install numpy
+
+Note:
+Definitely not as accurate as it could be, maybe because the model is only sequential. Worth trying at a later time
+with a more complex neural network or a more complex approach in general
